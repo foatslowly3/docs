@@ -1,3 +1,4 @@
+[maintenanceservice-install.log](https://github.com/github/docs/files/6330044/maintenanceservice-install.log)
 ---
 title: Other authentication methods
 intro: You can use basic authentication for testing in a non-production environment.
